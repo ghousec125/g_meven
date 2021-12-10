@@ -1,4 +1,4 @@
-1)scripted pipeline
+1)scripted pipeline ()
 node {
    stage("scmclone"){
    //git url
